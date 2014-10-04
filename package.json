@@ -1,0 +1,14 @@
+{
+  "name": "seconds",
+  "version": "1.0.0",
+  "description": "Wrapper to provide timing data on function execution ",
+  "main": "seconds.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "timing"
+  ],
+  "author": "Sandro Pasquali <spasquali@gmail.com>",
+  "license": "MIT"
+}
