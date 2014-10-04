@@ -1,6 +1,6 @@
 {
   "name": "seconds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper to provide timing data on function execution ",
   "main": "seconds.js",
   "scripts": {
