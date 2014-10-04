@@ -1,4 +1,4 @@
-//	Pass a method through #seconds returning a funcition. Call that 
+//	Pass a method through #seconds returning a function. Call that 
 //	as you would the original function, and your callback will
 //	receive some timing data as its final argument.
 //
